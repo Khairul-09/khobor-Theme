@@ -7,7 +7,7 @@ Themes for OpenSID
 
     galeri foto di halaman firs menggunakan foto dari sub-galeri jika mau dirubah seperti diatas skripnya ada di donjo-app>models>First_gallery_m.php
 
-    // daftar album di widget line 93 > $sql = "SELECT * FROM gambar_gallery WHERE enabled = '1' and parrent = 0 order by rand() limit 4";
+    // daftar album di widget line 93 > $sql = "SELECT * FROM gambar_gallery WHERE enabled = '1' and parrent = 0 order by rand()   limit 4";
 
     ganti menjadi
 
@@ -22,6 +22,16 @@ Themes for OpenSID
 ////////////////////////////////////////// 
 Yang mau donasi mongo ke sini https://opendesa.id/donasi/
 
-widget keuangan dan apdes kayaknya masih bug,, belum dicobain. struktur folder tema masih nyontek tema cosmos by Diki Siswanto, hehe
+ bug fix
+
+- link berita slider halaman home
+- halaman produk hukum
+- halaman informasi publik
+- Rensponsif Table
+
+---------------------------------------
+
++ tambah menu login hal.admin
++ Widged APBDES in Home
 
 terimakasih.....
