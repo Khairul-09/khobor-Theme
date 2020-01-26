@@ -19,7 +19,8 @@ Themes for OpenSID
 
     Demo >>https://sukoharjo2.desa.id/sidsukoharjo2
 
-////////////////////////////////////////// Yang mau donasi mongo ke sini https://opendesa.id/donasi/
+////////////////////////////////////////// 
+Yang mau donasi mongo ke sini https://opendesa.id/donasi/
 
 widget keuangan dan apdes kayaknya masih bug,, belum dicobain. struktur folder tema masih nyontek tema cosmos by Diki Siswanto, hehe
 
