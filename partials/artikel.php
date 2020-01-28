@@ -42,7 +42,7 @@
                           
 
                             <!-- Content -->
-                            <div class="content isi">
+                            <div class="isi">
 
                                <?= $single_artikel['isi'] ?>
 							   
