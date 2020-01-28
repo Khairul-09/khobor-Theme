@@ -1,5 +1,5 @@
 # khobor-Theme
-Themes for OpenSID 23 Januari 2020
+Themes for OpenSID 20.01 versi yang lain belum coba
 
  1. beberapa widget tidak ditampilkan saat memasuki halaman first(beranda)
 2. meta tag property="og:image" silahkan ganti dengan foto desa masing2 file ada di khobor/assets/up.jpg (nama harus sama)
@@ -19,7 +19,7 @@ Themes for OpenSID 23 Januari 2020
 5. jangan ngerubah copyright ya...
 
 
-Demo >>https://sukoharjo2.desa.id/sidsukoharjo2
+Demo >>https://sukoharjo2.desa.id
 Yang mau donasi mongo ke sini https://opendesa.id/donasi/
 
  bug fix (update 26 januari 2020)
