@@ -148,20 +148,10 @@
 
                                     </div>
                                     <div class="tab-pane fade" id="kf">
-<?php if(is_array($komentar)) : ?>
+
                              
-									   <div class="fb-comments" data-href="<?= site_url("first/artikel/$l[id]")?>" data-width="100%" data-numposts="5"></div>	
-									   	<?php else: ?>
-			<div class="alert alert-warning">
-                            
-                            <!-- Title -->
-                            Komentar untuk artikel ini telah ditutup.
-                            
-                        </div><!-- Post Block Head End -->
-                        			
-		
-	<?php endif; ?> 
-									 
+			<div class="fb-comments" data-href="<?= site_url("first/artikel/$l[id]")?>" data-width="100%" data-numposts="5"></div>	
+									   	
                                    
                                     </div>
                                 </div>
