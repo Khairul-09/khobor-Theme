@@ -81,7 +81,7 @@
                         </div>           
                   <?php if($artikel) : ?>
 							<?php foreach($artikel as $data) : ?>
-								<?php $url = site_url('first/artikel/'.$data['id']) ?>
+								<?php $url=site_url('first/artikel/'.$data['thn'].'/'.$data['bln'].'/'.$data['hri'].'/'.$data['slug']) ?>
 								<?php $abstrak = potong_teks($data['isi'], 250) ?>
 
                     <!-- Single Blog Start -->
